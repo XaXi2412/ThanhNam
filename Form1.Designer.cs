@@ -203,10 +203,10 @@
             // 
             this.NoteLable.AutoSize = true;
             this.NoteLable.BackColor = System.Drawing.Color.Transparent;
-            this.NoteLable.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.NoteLable.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NoteLable.Location = new System.Drawing.Point(44, 438);
             this.NoteLable.Name = "NoteLable";
-            this.NoteLable.Size = new System.Drawing.Size(16, 17);
+            this.NoteLable.Size = new System.Drawing.Size(17, 20);
             this.NoteLable.TabIndex = 21;
             this.NoteLable.Text = "  ";
             // 

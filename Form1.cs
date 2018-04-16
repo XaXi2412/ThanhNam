@@ -128,8 +128,8 @@ namespace WindowsFormsApplication1
                 }
            
            
-            notesLabel.Text = "   Save image successfully!! [Nguyen Thanh Nam , N14DCAT094]";
-            notesLabel.ForeColor = Color.Brown;
+            NoteLable.Text = "   Save image successfully!! [Nguyen Thanh Nam , N14DCAT094]";
+            NoteLable.ForeColor = Color.Yellow;
             #endregion
         }}
 
